@@ -1,0 +1,10 @@
+status=PLACEHOLDER
+generated_at=2026-06-26 23:25:41
+source_dir=05-交付成果/public-pages
+package_dir=05-交付成果/public-pages-deploy
+files=index.html privacy-policy.html support.html DEPLOYMENT.md manifest.txt
+privacy_file=privacy-policy.html
+support_file=support.html
+placeholder_note=支持邮箱已替换；公开 URL 仍需在部署完成后回填。
+email_placeholder=false
+url_placeholder=true
